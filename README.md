@@ -37,8 +37,6 @@ Hardware – PCs, Cyclone II , USB flasher
 
 <img width="1420" height="794" alt="Screenshot 2026-03-12 114412" src="https://github.com/user-attachments/assets/400c3200-f6d3-46b0-8847-96ec4c48fb0e" />
 
-
-
 **RTL realization**
 <img width="710" height="697" alt="Screenshot 2026-03-12 114520" src="https://github.com/user-attachments/assets/c4bd1893-d3d5-4f61-9978-fc9f2e4f3a48" />
 
