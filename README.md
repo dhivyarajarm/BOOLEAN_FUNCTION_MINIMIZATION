@@ -15,7 +15,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Software – Quartus prime**
 <img width="273" height="402" alt="Screenshot 2026-03-12 113305" src="https://github.com/user-attachments/assets/0257c73f-24e6-47e7-991e-b4a1ac682451" />
-Truth table:
+**Truth table:**
 ![WhatsApp Image 2026-03-12 at 11 28 18 AM](https://github.com/user-attachments/assets/c0ac8847-078d-41e3-aaf8-42ef4d522d99)
 
 **Procedure**
